@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 1337 School Projects
+## 1337
 
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
