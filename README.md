@@ -52,23 +52,37 @@
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
-## Contact
+## Contact Me
 
 <p align="center">
-  <strong>Email:</strong> <a href="mailto:elel-yak@student.1337.ma">elel-yak@student.1337.ma</a>
+  <a href="https://x.com/PiX3L_P33P3R">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X.com">
+  </a>
+  <!--<a href="https://discordapp.com/users/YOUR_USER_ID">-->
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+  <a href="mailto:elel-yak@student.1337.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
 </p>
 
-## GitHub Stats
+---
+
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pix3l-p33p3r&layout=compact&include_all_commits=true&count_private=true&theme=transparent" alt="Top Languages" />
 </p>
+
+---
 
 <p align="center">
   <img alt="pix3l-p33p3r's profile views" src="https://komarev.com/ghpvc/?username=pix3l-p33p3r&color=blue&style=flat" />
   <img alt="pix3l-p33p3r's followers" src="https://img.shields.io/github/followers/pix3l-p33p3r?color=2770BB" />
   <img alt="pix3l-p33p3r's stars" src="https://img.shields.io/github/stars/pix3l-p33p3r?color=2770BB" />
 </p>
+
 
 <!--<br>-->
 
