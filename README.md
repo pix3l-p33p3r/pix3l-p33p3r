@@ -46,7 +46,7 @@ in
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://komarev.com/ghpvc/?username=pix3l-p33p3r&color=bd93f9&style=flat-square&label=█▓▒░_VISITORS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=pix3l-p33p3r&color=bd93f9&style=flat-square&label=VISITORS" alt="profile views" />
 
 
 
@@ -55,11 +55,13 @@ in
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix3l-p33p3r&theme=dracula&hide=html,makefile,mdx,css,javascript&langs_count=10&layout=compact&hide_border=true)](https://github.com/pix3l-p33p3r/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pix3l-p33p3r&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pix3l-p33p3r&theme=dracula&hide=html,makefile,mdx,css,javascript&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pix3l-p33p3r&theme=dracula" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pix3l-p33p3r&theme=dracula" alt="profile details" />
 
 <br/>
 
@@ -69,7 +71,7 @@ in
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pix3l-p33p3r&hide_border=true&theme=dracula&background=282a36&ring=bd93f9&fire=ff5555&currStreakLabel=f8f8f2" alt="streak stats" />
     </td>
     <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pix3l-p33p3r&theme=dracula" alt="stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pix3l-p33p3r&theme=dracula" alt="stats" />
     </td>
   </tr>
 </table>
@@ -171,3 +173,5 @@ in
 <img src="https://img.shields.io/badge/Robotics_AI-000000?style=for-the-badge&logoColor=f8f8f2&color=bd93f9" alt="Robotics AI">
 
 </div>
+
+
